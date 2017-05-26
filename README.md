@@ -1,6 +1,6 @@
 # firewall-iptables
-firewall para hackers e trackes que querem deixar o seu sistema mais seguro e com regras de portas 
-
+## firewall para hackers e trackes que querem deixar o seu sistema mais seguro e com regras de portas 
+```
 [darkcode distro]# bash firewall-arch 
     
        .__                              ___.          .__   
@@ -446,5 +446,5 @@ COMMIT
 -A TROJAN -j DROP
 COMMIT
 # Completed on Sun Apr 30 03:40:41 2017
-
+```
 
